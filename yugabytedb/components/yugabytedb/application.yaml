@@ -15,7 +15,7 @@ spec:
   source:
     repoURL: 'https://charts.yugabyte.com'
     targetRevision: 2.23.1
-    chart: yugabytedb/yugabyte
+    chart: yugabyte
   project: <PROJECT>
   syncPolicy:
     syncOptions:
